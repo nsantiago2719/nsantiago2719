@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nsantiago2719
 - 👀 I’m interested in ... DevOps/System Engineering/Infrastracture Architecture
 - 🌱 I’m currently learning ... Rust Lang
-- 💞️ I’m looking to collaborate on ... simple projects built with RUst
+- 💞️ I’m looking to collaborate on ... simple projects built with Rust
 - 📫 How to reach me ... 
 
 <!---
